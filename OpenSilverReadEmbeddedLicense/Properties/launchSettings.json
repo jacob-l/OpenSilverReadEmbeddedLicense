@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OpenSilverReadEmbeddedLicense": {
+      "commandName": "Executable",
+      "executablePath": "cmd",
+      "commandLineArgs": "/c start \"\" \"http://www.opensilver.net/permalinks/wrong_startup_project.aspx\""
+    }
+  }
+}
